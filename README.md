@@ -1,6 +1,6 @@
 # 🌍 Travel Agency Website
 
-Welcome to our travel agency website! Discover amazing destinations, plan your dream vacation, and book your next adventure with us.[Travel Agency](C:/Users/21620/Desktop/image.png) ✈️🏝️🏔️
+Welcome to our travel agency website! Discover amazing destinations, plan your dream vacation, and book your next adventure with us.[Travel Agency](image.png) ✈️🏝️🏔️
 
 ## Features 🎉
 
