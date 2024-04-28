@@ -12,8 +12,7 @@ Welcome to our travel agency website! Discover amazing destinations, plan your d
 
 ## Getting Started 🚀
 
-To get started with our website, simply visit [our websitefile://) and start exploring! If you have any questions or need assistance, feel free to contact our customer support team at [info@travelagency.com](mailto:info@travelagency.com). 📧
-
+To get started with our website, simply visit [our websitefile://) and start exploring! If you have any questions or need assistance, feel free to contact me.
 ## Contributing 🤝
 
 We welcome contributions from the community to improve our website and make it even better! If you'd like to contribute, please follow these steps:
